@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/Testimonio.css'; // importamos la hoja de estilos
 
 function Testimonio () {
   return (
